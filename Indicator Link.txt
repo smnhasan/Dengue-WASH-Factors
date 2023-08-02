@@ -1,0 +1,39 @@
+Number of dengue fever infections, in 2019
+DengueCase
+https://ourworldindata.org/grapher/dengue-incidence
+
+Unsafe water, sanitation, and hygiene services deaths
+UNWASHD
+https://data.who.int/indicators/i/ED50112
+
+Investment in water and sanitation with private participation (current US$)
+POPUSESAFEDW
+https://data.worldbank.org/indicator/IE.PPI.WATR.CD?locations=BD&view=chart
+
+Water and sanitation development assistance as part of official government spending plans
+WASHDEV
+https://data.who.int/indicators/i/4AF995F
+
+Population using safely managed drinking-water services
+POPUSESAFEW
+https://data.who.int/indicators/i/1548EA3
+
+People using at least basic sanitation services (% of population)
+BASSAN
+https://data.worldbank.org/indicator/SH.STA.BASS.ZS?locations=BD&view=chart
+
+People using safely managed sanitation services (% of population)
+POPUSESAFES
+https://data.worldbank.org/indicator/SH.STA.SMSS.ZS?locations=BD&view=chart
+
+Safely treated domestic wastewater flows (% of population)
+SAFETWASH
+https://data.who.int/indicators/i/A37BDD6
+
+People with basic handwashing facilities including soap and water (% of population)
+BASHAN
+https://data.worldbank.org/indicator/SH.STA.HYGN.ZS?view=chart
+
+
+
+
